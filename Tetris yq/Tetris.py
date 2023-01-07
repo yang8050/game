@@ -299,4 +299,8 @@ if __name__ == '__main__':
             score += 3
         elif lines == 4:
             score += 4
+        elif lines == 5:
+            score += 5
+        elif lines == 6:
+            score += 6
 
